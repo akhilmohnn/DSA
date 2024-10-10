@@ -14,7 +14,7 @@ print("After append:",frutList,"\n")
 frutList.insert(1,"Apple")
 print("Added apple at 1st:",frutList,"\n")
 
-numList=["14","12","23","44","5"]
+numList=['Ford', 'BMW', 'Volvo','Ford', 'BMW', 'Volvo','Ford', 'BMW', 'Volvo']
 numList.sort()
 print(numList)
 """ newList=[]
