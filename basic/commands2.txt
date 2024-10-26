@@ -3,7 +3,11 @@
 
 //to merge the contents from feature to main
 1.first checkout to main
-2.then : "git merge feature" - this will merge the contents from feature to main (fast forwar merge)
+2.then : "git merge feature" - this will merge the contents from feature to main (fast forward merge)
+
+//if different files are updated in diff branches (ort merge is used)
+1.in this case choose any branch
+2.then : git merge feature/main
 
 *git diff : this command is used to see the latest changes done before committing
 
