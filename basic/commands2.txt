@@ -3,4 +3,4 @@
 
 //to merge the contents from feature to main
 1.first checkout to main
-2.then : "git merge feature" - this will merge the contents from feature to main
+2.then : "git merge feature" - this will merge the contents from feature to main (fast forwar merge)
