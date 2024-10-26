@@ -16,8 +16,12 @@
 
 //null lines added for merging
 
-*if same file updates in diff branches then conflicts occurs
+(*if same file updates in diff branches then conflicts occurs
 *then it should m=be manually removed by the author 
 this will be output:
 CONFLICT (content): Merge conflict in basic/commands2.txt
-Automatic merge failed; fix conflicts and then commit the result.
+Automatic merge failed; fix conflicts and then commit the result.)
+
+*git remote add remotename linkoftherepositorycreated : this will add the repository& then push will publish in the repository
+
+*git push remotename branchname : this will push the specified branch to the repository
