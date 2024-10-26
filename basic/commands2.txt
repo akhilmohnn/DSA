@@ -15,3 +15,5 @@
 
 
 //null lines added for merging
+
+*if same file updates in diff branches then conflicts occurs
