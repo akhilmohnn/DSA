@@ -8,3 +8,6 @@
 *git diff : this command is used to see the latest changes done before committing
 
 *git stash : this command is used to remove all the changes made after last commit,in stage phase (not works if commit current changes)
+
+
+//null lines added for merging
