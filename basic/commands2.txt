@@ -16,5 +16,8 @@
 
 //null lines added for merging
 
-
-*then it should m=be manually removed by the author
+*if same file updates in diff branches then conflicts occurs
+*then it should m=be manually removed by the author 
+this will be output:
+CONFLICT (content): Merge conflict in basic/commands2.txt
+Automatic merge failed; fix conflicts and then commit the result.
