@@ -1,3 +1,6 @@
 *git branch branchname : This will create a branch in the current commmit location
 //git checkout branchname : this will change the branch location,and following commits will only be updated in this branch
 
+//to merge the contents from feature to main
+1.first checkout to main
+2.then : "git merge feature" - this will merge the contents from feature to main
