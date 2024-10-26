@@ -6,3 +6,9 @@
 2.then : "git merge feature" - this will merge the contents from feature to main (fast forwar merge)
 
 *git diff : this command is used to see the latest changes done before committing
+
+djssjv
+dvvs
+sdss
+sdsss
+sddss
