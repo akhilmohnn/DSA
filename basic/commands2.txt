@@ -25,3 +25,5 @@ Automatic merge failed; fix conflicts and then commit the result.)
 *git remote add remotename linkoftherepositorycreated : this will add the repository& then push will publish in the repository
 
 *git push remotename branchname : this will push the specified branch to the repository
+
+*git clone httplink : this is used to clone the repository from the server
