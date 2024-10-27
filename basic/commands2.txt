@@ -29,7 +29,10 @@ Automatic merge failed; fix conflicts and then commit the result.)
 *git clone httplink : this is used to clone the repository from the server
 
 //Before merging the new branch to server
+(after committing the change in branch)
 *git pull (do this at main branch)
 then 
 *git merge main (in the new branch)  this will be useful when the cloned project dont have the updated main,
                                            if there is any update done in the background
+
+after this create the pull request in the server(github) then the author will review it and accept pull request
