@@ -32,7 +32,7 @@ Automatic merge failed; fix conflicts and then commit the result.)
 (after committing the change in branch)
 *git pull (do this at main branch)
 then 
-*git merge main (in the new branch)  this will be useful when the cloned project dont have the updated main,
+*git merge main (in the new branch)  this will be (1st step) useful when the cloned project dont have the updated main,
                                            if there is any update done in the background
 
 after this create the pull request in the server(github) then the author will review it and accept pull request
