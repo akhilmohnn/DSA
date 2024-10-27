@@ -27,3 +27,8 @@ Automatic merge failed; fix conflicts and then commit the result.)
 *git push remotename branchname : this will push the specified branch to the repository
 
 *git clone httplink : this is used to clone the repository from the server
+
+//Before merging the new branch to server
+*git pull (do this at main branch)
+then 
+*git merge main (in the new branch)
