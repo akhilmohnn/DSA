@@ -7,6 +7,7 @@ Python Basics: Covers introductory Python concepts for beginners.
 
 Getting Started
 ### Clone the repository:
-git clone https://github.com/akhilmohnn/DSA
+
+`git clone https://github.com/akhilmohnn/DSA`
 ### Author
 Created by Akhil Mohanan.
