@@ -4,11 +4,10 @@ This repository contains solutions to Data Structures and Algorithms (DSA) probl
 ## Structure
 DSA: Includes foundational topics like arrays, linked lists, stacks, queues, sorting, searching, and recursion.
 Python Basics: Covers introductory Python concepts for beginners.
+
 Getting Started
 ### Clone the repository:
-
-bash
-Copy code
 git clone https://github.com/yourusername/dsa-python-basics.git
-Author
+
+### Author
 Created by Akhil Mohanan.
