@@ -1,0 +1,16 @@
+1.git init - It is used for initialising the git
+2.git status- It is used to check the status-
+
+3.git add filename - this stage the file
+//git add . or --all -this stage all the files,or give all the requires names
+
+4.git commit -m "message" - this will commit the staged filename
+5.git push - this will directly push it to github
+
+(head):This will be the location we working on
+(master/main):This will be the top/latest modified commit location
+
+//  git log : using this command it shows the history of committed list, we can see commitid 
+//  git checkout commitid : using this we can go to the specific commit (the head will change to that position)
+//  git checkout master/main : using this we can go back to top/latest committed node
+
