@@ -10,5 +10,4 @@ class Solution:
         for i in range(1,maxNum+1):
             if i not in nums:
                 return i
-
         return maxNum+1 
