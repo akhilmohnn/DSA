@@ -1,7 +1,12 @@
 x=int(input("Enter first number"))
 y=int(input("Enter second number"))
 
-if x>y:
-    print("1st is larger")
+
+if y>x:
+	print("2nd is larger")
+elif x==y:
+	print("Both are same")    
 else:
-    print("2nd is larger")    
+	print("1st is larger")
+	
+	
