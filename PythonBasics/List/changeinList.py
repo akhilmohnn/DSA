@@ -7,7 +7,7 @@ for x in range(n):
     color1.append(color)
 
 color2=[]
-print("Enter the colors for list1")
+print("Enter the colors for list2")
 for x in range(n):
     color=input()
     color2.append(color)
